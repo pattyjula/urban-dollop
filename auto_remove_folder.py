@@ -1,4 +1,4 @@
-ip'''
+'''
 DESC: This script will removed Solved folders from a directory
 UNLESS the parent folder contains -Ins_ in it
 CAUTION: folder needs to be changed to current user's path
